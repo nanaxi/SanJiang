@@ -1,0 +1,153 @@
+
+SJ_nvren.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nv01_dabi_y
+  rotate: true
+  xy: 472, 145
+  size: 15, 79
+  orig: 15, 79
+  offset: 0, 0
+  index: -1
+nv01_dabi_y_yz
+  rotate: true
+  xy: 553, 149
+  size: 11, 74
+  orig: 11, 74
+  offset: 0, 0
+  index: -1
+nv01_dabi_z
+  rotate: true
+  xy: 338, 65
+  size: 24, 76
+  orig: 24, 76
+  offset: 0, 0
+  index: -1
+nv01_datui_y
+  rotate: false
+  xy: 338, 91
+  size: 99, 49
+  orig: 99, 49
+  offset: 0, 0
+  index: -1
+nv01_datui_z
+  rotate: false
+  xy: 890, 200
+  size: 99, 49
+  orig: 99, 49
+  offset: 0, 0
+  index: -1
+nv01_fa_1
+  rotate: true
+  xy: 472, 162
+  size: 87, 170
+  orig: 87, 170
+  offset: 0, 0
+  index: -1
+nv01_fa_2
+  rotate: true
+  xy: 890, 155
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+nv01_fa_3
+  rotate: true
+  xy: 644, 160
+  size: 89, 137
+  orig: 89, 137
+  offset: 0, 0
+  index: -1
+nv01_qiqiu
+  rotate: true
+  xy: 2, 142
+  size: 107, 468
+  orig: 107, 468
+  offset: 0, 0
+  index: -1
+nv01_qunzi_y
+  rotate: false
+  xy: 2, 2
+  size: 97, 55
+  orig: 97, 55
+  offset: 0, 0
+  index: -1
+nv01_qunzi_z
+  rotate: false
+  xy: 101, 6
+  size: 76, 51
+  orig: 76, 51
+  offset: 0, 0
+  index: -1
+nv01_shenzi
+  rotate: true
+  xy: 203, 60
+  size: 80, 133
+  orig: 80, 133
+  offset: 0, 0
+  index: -1
+nv01_shou_y
+  rotate: true
+  xy: 991, 216
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+nv01_shou_y_yz
+  rotate: true
+  xy: 1005, 216
+  size: 33, 9
+  orig: 33, 9
+  offset: 0, 0
+  index: -1
+nv01_shou_z
+  rotate: false
+  xy: 221, 39
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+nv01_tou
+  rotate: true
+  xy: 783, 153
+  size: 96, 105
+  orig: 96, 105
+  offset: 0, 0
+  index: -1
+nv01_xiaobi_y
+  rotate: false
+  xy: 944, 157
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+nv01_xiaobi_y_yz
+  rotate: true
+  xy: 179, 15
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+nv01_xiaobi_z
+  rotate: true
+  xy: 987, 153
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+nv01_xiaotui_y
+  rotate: false
+  xy: 439, 74
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+nv01_yingzi
+  rotate: false
+  xy: 2, 59
+  size: 199, 81
+  orig: 199, 81
+  offset: 0, 0
+  index: -1

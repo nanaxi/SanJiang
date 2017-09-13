@@ -1,0 +1,20 @@
+
+SJ_san.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+san
+  rotate: false
+  xy: 2, 2
+  size: 341, 269
+  orig: 341, 269
+  offset: 0, 0
+  index: -1
+sanbing
+  rotate: true
+  xy: 2, 273
+  size: 134, 529
+  orig: 134, 529
+  offset: 0, 0
+  index: -1

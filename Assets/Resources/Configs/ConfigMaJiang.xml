@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+  	<Majiang ID="1" Name="1wan" PrefabPath="Prefabes/Game/MaJiang/maj_wan_1" />
+	<Majiang ID="2" Name="2wan" PrefabPath="Prefabes/Game/MaJiang/maj_wan_2" />
+	<Majiang ID="3" Name="3wan" PrefabPath="Prefabes/Game/MaJiang/maj_wan_3" />
+	<Majiang ID="4" Name="4wan" PrefabPath="Prefabes/Game/MaJiang/maj_wan_4" />
+	<Majiang ID="5" Name="5wan" PrefabPath="Prefabes/Game/MaJiang/maj_wan_5" />
+	<Majiang ID="6" Name="6wan" PrefabPath="Prefabes/Game/MaJiang/maj_wan_6" />
+	<Majiang ID="7" Name="7wan" PrefabPath="Prefabes/Game/MaJiang/maj_wan_7" />
+	<Majiang ID="8" Name="8wan" PrefabPath="Prefabes/Game/MaJiang/maj_wan_8" />
+	<Majiang ID="9" Name="9wan" PrefabPath="Prefabes/Game/MaJiang/maj_wan_9" />
+
+	<Majiang ID="10" Name="1tiao" PrefabPath="Prefabes/Game/MaJiang/maj_tiao_1" />
+	<Majiang ID="11" Name="2tiao" PrefabPath="Prefabes/Game/MaJiang/maj_tiao_2" />
+	<Majiang ID="12" Name="3tiao" PrefabPath="Prefabes/Game/MaJiang/maj_tiao_3" />
+	<Majiang ID="13" Name="4tiao" PrefabPath="Prefabes/Game/MaJiang/maj_tiao_4" />
+	<Majiang ID="14" Name="5tiao" PrefabPath="Prefabes/Game/MaJiang/maj_tiao_5" />
+	<Majiang ID="15" Name="6tiao" PrefabPath="Prefabes/Game/MaJiang/maj_tiao_6" />
+	<Majiang ID="16" Name="7tiao" PrefabPath="Prefabes/Game/MaJiang/maj_tiao_7" />
+	<Majiang ID="17" Name="8tiao" PrefabPath="Prefabes/Game/MaJiang/maj_tiao_8" />
+	<Majiang ID="18" Name="9tiao" PrefabPath="Prefabes/Game/MaJiang/maj_tiao_9" />
+
+	<Majiang ID="19" Name="1bing" PrefabPath="Prefabes/Game/MaJiang/maj_bing_1" />
+	<Majiang ID="20" Name="2bing" PrefabPath="Prefabes/Game/MaJiang/maj_bing_2" />
+	<Majiang ID="21" Name="3bing" PrefabPath="Prefabes/Game/MaJiang/maj_bing_3" />
+	<Majiang ID="22" Name="4bing" PrefabPath="Prefabes/Game/MaJiang/maj_bing_4" />
+	<Majiang ID="23" Name="5bing" PrefabPath="Prefabes/Game/MaJiang/maj_bing_5" />
+	<Majiang ID="24" Name="6bing" PrefabPath="Prefabes/Game/MaJiang/maj_bing_6" />
+	<Majiang ID="25" Name="7bing" PrefabPath="Prefabes/Game/MaJiang/maj_bing_7" />
+	<Majiang ID="26" Name="8bing" PrefabPath="Prefabes/Game/MaJiang/maj_bing_8" />
+	<Majiang ID="27" Name="9bing" PrefabPath="Prefabes/Game/MaJiang/maj_bing_9" />
+
+	<Majiang ID="27" Name="hongzhong" PrefabPath="Prefabes/Game/MaJiang/maj_hongzhong" />
+	<Majiang ID="28" Name="facai" PrefabPath="Prefabes/Game/MaJiang/maj_facai" />
+	<Majiang ID="29" Name="baiban" PrefabPath="Prefabes/Game/MaJiang/maj_baiban" />
+
+	<Majiang ID="30" Name="dongfeng" PrefabPath="Prefabes/Game/MaJiang/maj_feng_dong" />
+	<Majiang ID="31" Name="nanfeng" PrefabPath="Prefabes/Game/MaJiang/maj_feng_nan" />
+	<Majiang ID="32" Name="xifeng" PrefabPath="Prefabes/Game/MaJiang/maj_feng_xi" />
+	<Majiang ID="33" Name="beifeng" PrefabPath="Prefabes/Game/MaJiang/maj_feng_dei" />
+
+	<Majiang ID="34" Name="chun" PrefabPath="Prefabes/Game/MaJiang/maj_zi_chun" />
+	<Majiang ID="35" Name="xia" PrefabPath="Prefabes/Game/MaJiang/maj_zi_xia" />
+	<Majiang ID="36" Name="qiu" PrefabPath="Prefabes/Game/MaJiang/maj_zi_qiu" />
+	<Majiang ID="37" Name="dong" PrefabPath="Prefabes/Game/MaJiang/maj_zi_dong" />
+
+	<Majiang ID="38" Name="mei" PrefabPath="Prefabes/Game/MaJiang/maj_hua_mei" />
+	<Majiang ID="39" Name="lan" PrefabPath="Prefabes/Game/MaJiang/maj_hua_lan" />
+	<Majiang ID="40" Name="zhu" PrefabPath="Prefabes/Game/MaJiang/maj_hua_zhu" />
+	<Majiang ID="41" Name="ju" PrefabPath="Prefabes/Game/MaJiang/maj_hua_ju" />
+
+</Root>

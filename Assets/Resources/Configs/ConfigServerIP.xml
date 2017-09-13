@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+  	<Server ID="1" Name="外网服务器" IP="texas.uddgame.net" Port="20015" Valid="1" Default="1" />
+</Root>

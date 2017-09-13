@@ -1,0 +1,15 @@
+﻿AoJiao|Sprites/NingXiaHuaShui/Phiz/AoJiao
+BaiBai|Sprites/NingXiaHuaShui/Phiz/BaiBai
+DaKu|Sprites/NingXiaHuaShui/Phiz/DaKu
+Heng|Sprites/NingXiaHuaShui/Phiz/Heng
+JingXia|Sprites/NingXiaHuaShui/Phiz/JingXia
+Kun|Sprites/NingXiaHuaShui/Phiz/Kun
+MoBai|Sprites/NingXiaHuaShui/Phiz/MoBai
+QiDao|Sprites/NingXiaHuaShui/Phiz/QiDao
+QuSi|Sprites/NingXiaHuaShui/Phiz/QuSi
+TanQi|Sprites/NingXiaHuaShui/Phiz/TanQi
+TouXiang|Sprites/NingXiaHuaShui/Phiz/TouXiang
+TouXiao|Sprites/NingXiaHuaShui/Phiz/TouXiao
+Tu|Sprites/NingXiaHuaShui/Phiz/Tu
+Yun|Sprites/NingXiaHuaShui/Phiz/Yun
+ZiYa|Sprites/NingXiaHuaShui/Phiz/ZiYa
